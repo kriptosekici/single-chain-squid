@@ -96,10 +96,10 @@ A healthy response should look similar to
 
 1. Open a terminal and run the following commands to create the squid and enter its folder:
    ```bash
-   sqd init kriptosekici -t https://github.com/subsquid-quests/single-chain-squid
+   sqd init arn -t https://github.com/subsquid-quests/single-chain-squid
    ```
    ```bash
-   cd kriptosekici
+   cd arn
    ```
    You can replace `my-single-proc-squid` with any name you choose for your squid. If a squid with that name already exists in [Aquarium](https://docs.subsquid.io/deploy-squid/), the first command will throw an error; if that happens simply think of another name and repeat the commands.
 
